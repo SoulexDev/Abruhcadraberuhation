@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8eeb624caa5684083ac1e560afb5ae, type: 3}
+  m_Name: Battery
+  m_EditorClassIdentifier: 
+  itemToCraft: {fileID: 11400000, guid: ac5c2d1fff377a641b299e2962eef17c, type: 2}
+  quantity: 1
+  requiredItemCountPairs:
+  - item: {fileID: 11400000, guid: e87657504a3e4724f978dff63449a8f9, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 0942fa5c6b46295498813aad0f3cea9e, type: 2}
+    count: 1

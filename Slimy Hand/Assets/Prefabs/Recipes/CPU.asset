@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8eeb624caa5684083ac1e560afb5ae, type: 3}
+  m_Name: CPU
+  m_EditorClassIdentifier: 
+  itemToCraft: {fileID: 11400000, guid: 6e39445096281c74fae156b47ca661e8, type: 2}
+  quantity: 1
+  requiredItemCountPairs:
+  - item: {fileID: 11400000, guid: 1c3f591d3097f6441bf265277cb43687, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 36269f7cf2b341b43bff85cd905f6ca4, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: e87657504a3e4724f978dff63449a8f9, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 453e04853b43e8244b14219b434bad21, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 880623e76ea636e449ec7d53850ef562, type: 2}
+    count: 2
